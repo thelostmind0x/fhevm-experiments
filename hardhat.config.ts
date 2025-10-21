@@ -23,7 +23,7 @@ export default config;
 # update readme with setup instructions
 
 # fix typo and improve file structure
-#
+# update environment variables for local testing
 #
 #
 #
