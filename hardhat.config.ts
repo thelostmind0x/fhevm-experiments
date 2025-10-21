@@ -19,3 +19,27 @@ const config: HardhatUserConfig = {
 };
 
 export default config;
+
+# update readme with setup instructions
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
