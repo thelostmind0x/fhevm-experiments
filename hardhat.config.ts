@@ -22,7 +22,7 @@ export default config;
 
 # update readme with setup instructions
 
-#
+# fix typo and improve file structure
 #
 #
 #
